@@ -65,24 +65,24 @@ img{
     background-color: #69707D;
 }
 .icon-cart{
-    mask-image: url(/images/icon-cart.svg);
-        -webkit-mask-image: url(/images/icon-cart.svg);
+    mask-image: url(../../images/icon-cart.svg);
+        -webkit-mask-image: url(../../images/icon-cart.svg);
     min-width: 22px;
     min-height: 22px;
 }
 .icon-close{
-    mask-image: url(/images/icon-close.svg);
-        -webkit-mask-image: url(/images/icon-close.svg);
+    mask-image: url(../../images/icon-close.svg);
+        -webkit-mask-image: url(../../images/icon-close.svg);
     min-width: 17px;
     min-height: 17px;
 }
 .icon-previous{ 
-    mask-image: url(/images/icon-previous.svg); 
-        -webkit-mask-image: url(/images/icon-previous.svg); 
+    mask-image: url(../../images/icon-previous.svg); 
+        -webkit-mask-image: url(../../images/icon-previous.svg); 
 }
 .icon-next{ 
-    mask-image: url(/images/icon-next.svg); 
-        -webkit-mask-image: url(/images/icon-next.svg); 
+    mask-image: url(../../images/icon-next.svg); 
+        -webkit-mask-image: url(../../images/icon-next.svg); 
 }
 .icon-previous,
 .icon-next{
@@ -91,12 +91,12 @@ img{
     min-height: 15px;
 }
 .icon-minus{ 
-    mask-image: url(/images/icon-minus.svg); 
-        -webkit-mask-image: url(/images/icon-minus.svg); 
+    mask-image: url(../../images/icon-minus.svg); 
+        -webkit-mask-image: url(../../images/icon-minus.svg); 
 }
 .icon-plus{ 
-    mask-image: url(/images/icon-plus.svg);
-        -webkit-mask-image: url(/images/icon-plus.svg);
+    mask-image: url(../../images/icon-plus.svg);
+        -webkit-mask-image: url(../../images/icon-plus.svg);
 }
 .icon-minus,
 .icon-plus{
@@ -129,7 +129,7 @@ img{
     position: relative;
     display: inline-block;
     padding: .1em;
-    background: url(/images/logo.svg) no-repeat; 
+    background: url(../../images/logo.svg) no-repeat; 
     background-size: contain;
     background-position: left 35%;
 }
